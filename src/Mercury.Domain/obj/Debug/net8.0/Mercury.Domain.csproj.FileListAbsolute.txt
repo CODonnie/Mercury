@@ -1,0 +1,12 @@
+/root/Mercury/src/Mercury.Domain/bin/Debug/net8.0/Mercury.Domain.deps.json
+/root/Mercury/src/Mercury.Domain/bin/Debug/net8.0/Mercury.Domain.dll
+/root/Mercury/src/Mercury.Domain/bin/Debug/net8.0/Mercury.Domain.pdb
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.AssemblyInfoInputs.cache
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.AssemblyInfo.cs
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.csproj.CoreCompileInputs.cache
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.sourcelink.json
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.dll
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/refint/Mercury.Domain.dll
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/Mercury.Domain.pdb
+/root/Mercury/src/Mercury.Domain/obj/Debug/net8.0/ref/Mercury.Domain.dll
